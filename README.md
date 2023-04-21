@@ -1,12 +1,7 @@
 # html-css
  Curso de HTML5 + CSS3 do CursoemVideo
- 
- <style>
-     ul{
-       columns: 2;
-      }
- 
- </style>
+
+  
 
 <h1>Exercícios de HTML5 e CSS</h1>
 
@@ -102,9 +97,15 @@
       <a href="https://michellycruz.github.io/html-css/exercicios/ex021/caixa03.html">Executar o exercício 021 - caixa03</a>
    </li> 
 </ul>
+<s>porra mermão que lista grande</s>
 
+<h1>Desafios</h1>
 
-
+<ul>
+  <li>
+   <a href="https://michellycruz.github.io/html-css/desafios/d011/index.html">Executar o desafio 011 - astronauta</a>
+  </li>
+</ul>
 
 
 
