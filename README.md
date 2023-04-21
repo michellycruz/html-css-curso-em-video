@@ -1,5 +1,12 @@
 # html-css
  Curso de HTML5 + CSS3 do CursoemVideo
+ 
+ <style>
+     ul{
+       columns: 2;
+      }
+ 
+ </style>
 
 <h1>Exercícios de HTML5 e CSS</h1>
 
