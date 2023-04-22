@@ -99,11 +99,23 @@
 </ul>
 <s>porra mermão que lista grande</s>
 
-<h1>Desafios</h1>
+<h1>Desafios simples</h1>
 
 <ul>
   <li>
-   <a href="https://michellycruz.github.io/html-css/desafios/d011/index.html">Executar o desafio 011 - astronauta</a>
+   <a href="https://michellycruz.github.io/html-css/desafios/d011/index.html">Astronauta</a>
+  </li>
+  <li>
+   <a href="https://michellycruz.github.io/html-css/desafios/d003/mapamundi.html">Mapa mundi</a>
+  </li>
+  <li>
+   <a href="https://michellycruz.github.io/html-css/desafios/d004/index.html">Lista de Emojis</a>
+  </li>
+  <li>
+   <a href="https://michellycruz.github.io/html-css/desafios/d008/cinza.html">Navegação</a>
+  </li>
+  <li>
+   <a href="https://michellycruz.github.io/html-css/desafios/d009/index.html">Recomendações de Séries</a>
   </li>
 </ul>
 
