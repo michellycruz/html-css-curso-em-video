@@ -123,6 +123,9 @@
    <li>
       <a href="https://michellycruz.github.io/html-css/exercicios/ex021/caixa03.html">Executar o exercício 021 - caixa03</a>
    </li> 
+   <li>
+      <a href="https://michellycruz.github.io/html-css/exercicios/ex022/index.html">Executar o exercício 022 - fundos</a>
+   </li> 
 </ul>
 <s>porra mermão que lista grande</s>
 
