@@ -115,13 +115,7 @@
       <a href="https://michellycruz.github.io/html-css/exercicios/ex020/pseudoclasse.html">Executar o exercício 020 - pseudoclasse</a>
    </li>
    <li>
-      <a href="https://michellycruz.github.io/html-css/exercicios/ex021/caixa01.html">Executar o exercício 021 - caixa01</a>
-   </li> 
-   <li>
-      <a href="https://michellycruz.github.io/html-css/exercicios/ex021/caixa02.html">Executar o exercício 021 - caixa02</a>
-   </li>
-   <li>
-      <a href="https://michellycruz.github.io/html-css/exercicios/ex021/caixa03.html">Executar o exercício 021 - caixa03</a>
+      <a href="https://michellycruz.github.io/html-css/exercicios/ex021/index.html">Executar o exercício 021 - caixas</a>
    </li> 
    <li>
       <a href="https://michellycruz.github.io/html-css/exercicios/ex022/index.html">Executar o exercício 022 - fundos</a>
