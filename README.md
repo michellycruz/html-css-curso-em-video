@@ -121,6 +121,5 @@
       <a href="https://michellycruz.github.io/html-css/exercicios/ex022/index.html">Executar o exercício 022 - fundos</a>
    </li> 
 </ul>
-<s>porra mermão que lista grande</s>
 
 
