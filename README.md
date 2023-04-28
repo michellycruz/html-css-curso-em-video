@@ -20,9 +20,6 @@
    <a href="https://michellycruz.github.io/html-css/desafios/d009/index.html">Recomendações de Séries</a>
   </li>
   <li>
-   <a href="https://michellycruz.github.io/html-css/desafios/d013/index.html">Tabela</a>
-  </li>
-  <li>
    <a href="https://michellycruz.github.io/html-css/desafios/d014/index.html">Tabela de Notas</a>
   </li>
   
