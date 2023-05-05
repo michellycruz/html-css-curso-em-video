@@ -11,7 +11,16 @@
     <form action="cadastro.php" method="get">
         <p>
             <label for="iemail">E-mail</label>
-            <input type="email" name="email" id="iemail">
+            <input type="email" name="email" id="iemail" required autocomplete="email">
+        </p>
+        <p>
+            <label for="itel">Telefone</label>
+            <input type="tel" name="tel" id="itel" autocomplete="tel" pattern="" required>
+        </p>
+        <!-- Estudar mais sobre RegEx -->
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
         </p>
     </form>
 </body>
