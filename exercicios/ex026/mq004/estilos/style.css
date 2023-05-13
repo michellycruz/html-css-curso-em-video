@@ -18,3 +18,16 @@ body, html {
 body{
     background: black url(../imagens/back-phone.jpg) no-repeat;
 }
+
+main{
+    background-color: rgba(255, 255, 255, 0.795);
+    width: 90vw;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+img#phone {
+    display: none;
+}
