@@ -30,6 +30,16 @@ Grandes telas: acima de 1200px
 @media screen and (min-width: 992px) and (max-width: 1200px) {
 /* DESKTOP */
 
+    body{
+        background-image: url(../imagens/back-pc.jpg);
+    }
+
+    img#phone {display: none;}
+    img#tablet {display: none;}
+    img#print {display: none;}
+    img#pc{display: block;}
+    img#tv{display: none;}
+
 }
 
 @media screen and (min-width: 1200px) {
