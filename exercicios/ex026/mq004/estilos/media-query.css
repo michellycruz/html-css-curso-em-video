@@ -45,4 +45,14 @@ Grandes telas: acima de 1200px
 @media screen and (min-width: 1200px) {
 /* GRANDES TELAS */
 
+    body{
+        background-image: url(../imagens/back-tv.jpg);
+    }
+
+    img#phone {display: none;}
+    img#tablet {display: none;}
+    img#print {display: none;}
+    img#pc{display: block;}
+    img#tv{display: none;}
+
 }
