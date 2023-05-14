@@ -3,6 +3,7 @@
 /*Todas as demais mídias*/
 
 /* Typical Device Breakpoints
+------------------------------
 Pequenas telas: até 600px
 Celular: de 600px até 768px
 tablet: 768px até 992px
@@ -11,5 +12,13 @@ Grandes telas: acima de 1200px
 */
 
 @media print {
+
+}
+
+@media screen and (max-width 600px) {
+
+}
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
 
 }
