@@ -12,7 +12,7 @@ body, html{
 }
 
 header{
-    background-color: palevioletred;
+    background-color: rgb(230, 119, 156);
 }
 
 header > h1{
@@ -35,4 +35,28 @@ menu > ul > li > a {
     text-align: center;
     background-color: rgb(216, 91, 132);
     color: white;
+    border-top: 2px solid palevioletred;
+}
+
+menu > ul > li > a:hover{
+    background-color: palevioletred;
+}
+
+main {
+    width: 90vw;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+article > h2 {
+    padding-bottom: 20px;
+}
+
+article > p {
+    text-align: justify;
+    margin-bottom: 20px;
+    text-indent: 20px;
 }
