@@ -28,6 +28,11 @@ span#burguer{
     padding: 10px;
 }
 
+span#burguer:hover{
+    background-color: white;
+    color: black;
+}
+
 menu{
     display: block;
 }
