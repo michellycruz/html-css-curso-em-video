@@ -12,7 +12,7 @@
     <header>
         <h1>Hello Kitty</h1>
         <span id="burguer" class="material-icons" onclick="clickMenu()">menu</span>
-        <menu>
+        <menu id="itens">
             <ul>
                 <li><a href="#">Opção 1</a></li>
                 <li><a href="#">Opção 2</a></li>
@@ -35,7 +35,13 @@
         </article>
     </main>
     <script>
-        
+        function clickMenu() {
+            if (itens.style.display == 'block') {
+                itens.style.display = 'none'
+            } else {
+                itens.style.display = 'block'
+            }
+        }
     </script>
 </body>
 </html>
