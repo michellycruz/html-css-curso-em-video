@@ -5,33 +5,33 @@
 
 <ul>
   <li>
-   <a href="https://michellycruz.github.io/html-css/desafios/d011/index.html">Astronauta</a>
+   <a href="https://michellycruz.github.io/html-css-curso-em-video/desafios/d011/index.html">Astronauta</a>
   </li>
   <li>
-   <a href="https://michellycruz.github.io/html-css/desafios/d003/mapamundi.html">Mapa mundi</a>
+   <a href="https://michellycruz.github.io/html-css-curso-em-video/desafios/d003/mapamundi.html">Mapa mundi</a>
   </li>
   <li>
-   <a href="https://michellycruz.github.io/html-css/desafios/d004/index.html">Lista de Emojis</a>
+   <a href="https://michellycruz.github.io/html-css-curso-em-video/desafios/d004/index.html">Lista de Emojis</a>
   </li>
   <li>
-   <a href="https://michellycruz.github.io/html-css/desafios/d008/cinza.html">Navegação</a>
+   <a href="https://michellycruz.github.io/html-css-curso-em-video/desafios/d008/cinza.html">Navegação</a>
   </li>
   <li>
-   <a href="https://michellycruz.github.io/html-css/desafios/d009/index.html">Recomendações de Séries</a>
+   <a href="https://michellycruz.github.io/html-css-curso-em-video/desafios/d009/index.html">Recomendações de Séries</a>
   </li>
   <li>
-   <a href="https://michellycruz.github.io/html-css/desafios/d014/index.html">Tabela de Notas</a>
+   <a href="https://michellycruz.github.io/html-css-curso-em-video/desafios/d014/index.html">Tabela de Notas</a>
   </li>
   <li>
-   <a href="https://michellycruz.github.io/html-css/exercicios/ex026/mq005/index.html">Menu Hamburguer</a>
+   <a href="https://michellycruz.github.io/html-css-curso-em-video/exercicios/ex026/mq005/index.html">Menu Hamburguer</a>
   </li>
   
   <h1>Projetos</h1>
   
   <li>
-   <a href="https://michellycruz.github.io/html-css/desafios/d010/android.html">Android</a>
+   <a href="https://michellycruz.github.io/html-css-curso-em-video/desafios/d010/android.html">Android</a>
   </li>
   <li>
-   <a href="https://michellycruz.github.io/html-css/desafios/d012/index.html">Cordel Moderno</a>
+   <a href="https://michellycruz.github.io/html-css-curso-em-video/desafios/d012/index.html">Cordel Moderno</a>
   </li>
 </ul>
